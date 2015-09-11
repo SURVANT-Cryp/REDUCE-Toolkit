@@ -4,5 +4,5 @@ The main objective of the SURVANT-Cryp Harm Reduction Toolkit is to connect home
 
 The SURVANT-Cryp Harm Reduction Toolkit was inspired by the Transborder Immigrant Tool (TBT), a project by Electronic Disturbance Theater that provides immigrants crossing the U.S./Mexico border with safe routes and directions to water caches (maintained by the Border Angels) throughout the desert.<br>
 
-<noscript><form action="https://locator.aids.gov/index.php" style="margin:0;"><label style="margin-left:22px;"><input type="text" name="location" style="border:1;font-size:11px;width:230px;"/></label><button type="submit" style="background:none;cursor:pointer;height:20px;padding:0;text-indent:-999em;overflow:hidden;vertical-align:middle;width:40px;">GO</button><input type="hidden" name="text_only" value="true" /></form></noscript><script type="text/javascript" src="https://locator.aids.gov/widget-clean.js"></script>
+https://locator.aids.gov/index
 
