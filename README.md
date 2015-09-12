@@ -9,7 +9,7 @@ The SURVANT-Cryp REDUCE Toolkit was inspired by the Transborder Immigrant Tool (
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.<br>
 
 MAPS:<br>
-http://harmreductiontoolkit.tumblr.com/locator<br>
+http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br><br>
 
 
