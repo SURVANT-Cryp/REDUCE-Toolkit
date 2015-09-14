@@ -10,7 +10,7 @@ The SURVANT-Cryp REDUCE Toolkit was inspired by the Transborder Immigrant Tool (
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.<br>
 
-Maps:<br>
+<b>Maps:</b><br>
 
 http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
@@ -60,7 +60,7 @@ http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<b
 Federal Activist Toolkit<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br><br>
 
-Domestic and Sexual Violence Resources:<br>
+<b>Domestic and Sexual Violence Resources:</b><br>
 
 A Toolkit for Transitional Housing Programs<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
