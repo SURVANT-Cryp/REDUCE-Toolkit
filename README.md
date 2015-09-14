@@ -35,6 +35,8 @@ http://www.familyhomelessness.org/media/371.pdf<br>
 http://www.endhomelessness.org/library/entry/improving-safety-and-services-for-survivors-of-domestic-violence<br>
 http://www.endhomelessness.org/page/-/files/dash_final.pdf<br>
 https://www.aclu.org/sites/default/files/pdfs/dvhomelessness032106.pdf<br>
+https://rainn.org/get-information/sexual-assault-prevention<br>
+http://www.pandys.org/recommendedreading.html<br>
 
 
 
