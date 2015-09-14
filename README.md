@@ -22,18 +22,41 @@ http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf<br><br>
 NYS-Authorized Syringe Exchange Programs<br>
 http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf<br><br>
 
-http://leshrc.org/sites/default/files/Getting%20Off%20Right%20-%20Manual%20for%20Injecting%20Drug%20Users.pdf - A Safety Manual for Injection Drug Users<br>
-http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf - New York City Harm Reduction Syringe Access Programs<br>
-https://gaycenter.org/resources - New York City’s Lesbian, Gay, Bisexual & Transgender Community Center Resources<br>
-http://harmreduction.org/wp-content/uploads/2012/11/pdse-toolkit-with-links.pdf - Peer-Delivered Syringe Exchange Toolkit<br>
-http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf - Overdose Prevention and Take-Home Naloxone Projects<br>
-http://harmreduction.org/syringe-access/syringe-access-tools/sas-le - Syringe Access & Law Enforcement<br>
-http://harmreduction.org/wp-content/uploads/2011/12/HCV-Support-Manual-Eng-with-Cover.pdf - Hepatitis C Support Groups For Drug Users<br>
-http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0 - Alcohol, Hepatitis C and HIV<br>
-http://www.leshrc.org - Lower East Side Harm Reduction Center<br>
-http://www.hamsnetwork.org - HAMS: Harm Reduction for Alcohol<br>
-http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf - A Place at the Table<br>
-http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit - Federal Activist Toolkit<br>
+A Safety Manual for Injection Drug Users<br>
+http://leshrc.org/sites/default/files/Getting%20Off%20Right%20-%20Manual%20for%20Injecting%20Drug%20Users.pdf<br><br>
+
+New York City Harm Reduction Syringe Access Programs<br>
+http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf<br><br>
+
+New York City’s Lesbian, Gay, Bisexual & Transgender Community Center Resources<br>
+https://gaycenter.org/resources - New York City’s Lesbian, Gay, Bisexual & Transgender Community Center Resources<br><br>
+
+Peer-Delivered Syringe Exchange Toolkit<br>
+http://harmreduction.org/wp-content/uploads/2012/11/pdse-toolkit-with-links.pdf<br><br>
+
+Overdose Prevention and Take-Home Naloxone Projects<br>
+http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf<br><br>
+
+Syringe Access & Law Enforcement<br>
+http://harmreduction.org/syringe-access/syringe-access-tools/sas-le<br><br>
+
+Hepatitis C Support Groups For Drug Users<br>
+http://harmreduction.org/wp-content/uploads/2011/12/HCV-Support-Manual-Eng-with-Cover.pdf<br><br>
+
+Alcohol, Hepatitis C and HIV<br>
+http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0<br><br>
+
+Lower East Side Harm Reduction Center<br>
+http://www.leshrc.org<br><br>
+
+HAMS: Harm Reduction for Alcohol<br>
+http://www.hamsnetwork.org<br><br>
+
+A Place at the Table<br>
+http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<br><br>
+
+Federal Activist Toolkit<br>
+http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br><br>
 
 Domestic and Sexual Violence Resources:<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
