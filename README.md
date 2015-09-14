@@ -15,7 +15,8 @@ http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
 http://iduha.org/nyc-sep-map<br>
 
-Harm Reduction Resources:<br>
+Harm Reduction Resources:<br><br>
+
 A Comprehensive Approach to Substance Abuse and Homelessness<br>
 http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf<br><br>
 
@@ -58,7 +59,8 @@ http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<b
 Federal Activist Toolkit<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br><br>
 
-Domestic and Sexual Violence Resources:<br>
+Domestic and Sexual Violence Resources:<br><br>
+
 A Toolkit for Transitional Housing Programs<br>
 http://www.familyhomelessness.org/media/371.pdf<br><br>
 
