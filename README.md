@@ -29,7 +29,7 @@ New York City Harm Reduction Syringe Access Programs<br>
 http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf<br><br>
 
 New York City’s Lesbian, Gay, Bisexual & Transgender Community Center Resources<br>
-https://gaycenter.org/resources - New York City’s Lesbian, Gay, Bisexual & Transgender Community Center Resources<br><br>
+https://gaycenter.org/resources<br><br>
 
 Peer-Delivered Syringe Exchange Toolkit<br>
 http://harmreduction.org/wp-content/uploads/2012/11/pdse-toolkit-with-links.pdf<br><br>
@@ -59,12 +59,23 @@ Federal Activist Toolkit<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br><br>
 
 Domestic and Sexual Violence Resources:<br>
-http://www.familyhomelessness.org/media/371.pdf<br>
-http://www.safehorizon.org/page/resources--publications-7.html<br>
-http://www.endhomelessness.org/library/entry/improving-safety-and-services-for-survivors-of-domestic-violence<br>
-https://www.aclu.org/sites/default/files/pdfs/dvhomelessness032106.pdf<br>
-https://rainn.org/get-information/sexual-assault-prevention<br>
-http://www.pandys.org/recommendedreading.html<br>
+A Toolkit for Transitional Housing Programs<br>
+http://www.familyhomelessness.org/media/371.pdf<br><br>
+
+Safe Horizon<br>
+http://www.safehorizon.org/page/resources--publications-7.html<br><br>
+
+Improving Safety and Services for Survivors of Domestic Violence<br>
+http://www.endhomelessness.org/library/entry/improving-safety-and-services-for-survivors-of-domestic-violence<br><br>
+
+ACLU Women's Rights Project<br>
+https://www.aclu.org/sites/default/files/pdfs/dvhomelessness032106.pdf<br><br>
+
+Ways to Reduce your Risk of Sexual Assault<br>
+https://rainn.org/get-information/sexual-assault-prevention<br><br>
+
+Pandora's Project<br>
+http://www.pandys.org/recommendedreading.html<br><br>
 
 
 
