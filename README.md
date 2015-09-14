@@ -12,10 +12,15 @@ MAPS:<br>
 http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br><br>
 
-Harm Reduction Resources:
-http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf
-http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf
-https://gaycenter.org/resources
+Harm Reduction Resources:<br>
+http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf<br>
+http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf<br>
+https://gaycenter.org/resources<br>
+http://harmreduction.org/wp-content/uploads/2012/11/pdse-toolkit-with-links.pdf<br>
+http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf<br>
+http://harmreduction.org/syringe-access/syringe-access-tools/sas-le/<br>
+
+
 
 
 
