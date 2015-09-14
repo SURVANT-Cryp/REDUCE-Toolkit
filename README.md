@@ -13,7 +13,7 @@ I am sharing this project on GitHub in the spirit of distribution and DIWO cultu
 Maps:<br>
 http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
-http://iduha.org/nyc-sep-map<br>
+http://iduha.org/nyc-sep-map<br><br>
 
 Harm Reduction Resources:<br>
 
