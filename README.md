@@ -28,6 +28,7 @@ http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0<br>
 http://www.leshrc.org<br>
 http://www.hamsnetwork.org<br>
 http://www.aldp.ie/resources/downloads1<br>
+http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br>
 
 Domestic and Sexual Violence Resources:<br>
