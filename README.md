@@ -18,18 +18,19 @@ http://iduha.org/nyc-sep-map<br>
 Harm Reduction Resources:<br>
 http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf - A Comprehensive Approach to
 Substance Abuse and Homelessness<br>
-http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf<br>
-http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf<br>
-https://gaycenter.org/resources<br>
-http://harmreduction.org/wp-content/uploads/2012/11/pdse-toolkit-with-links.pdf<br>
-http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf<br>
-http://harmreduction.org/syringe-access/syringe-access-tools/sas-le<br>
-http://harmreduction.org/wp-content/uploads/2011/12/HCV-Support-Manual-Eng-with-Cover.pdf<br>
-http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0<br>
-http://www.leshrc.org<br>
-http://www.hamsnetwork.org<br>
-http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<br>
-http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br>
+http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf - NYS-Authorized Syringe Exchange Programs<br>
+http://leshrc.org/sites/default/files/Getting%20Off%20Right%20-%20Manual%20for%20Injecting%20Drug%20Users.pdf - A Safety Manual for Injection Drug Users<br>
+http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf - New York City Harm Reduction Syringe Access Programs<br>
+https://gaycenter.org/resources - New York City’s Lesbian, Gay, Bisexual & Transgender Community Center Resources<br>
+http://harmreduction.org/wp-content/uploads/2012/11/pdse-toolkit-with-links.pdf - Peer-Delivered Syringe Exchange Toolkit<br>
+http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf - Overdose Prevention and Take-Home Naloxone Projects<br>
+http://harmreduction.org/syringe-access/syringe-access-tools/sas-le - Syringe Access & Law Enforcement<br>
+http://harmreduction.org/wp-content/uploads/2011/12/HCV-Support-Manual-Eng-with-Cover.pdf - Hepatitis C Support Groups For Drug Users<br>
+http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0 - Alcohol, Hepatitis C and HIV<br>
+http://www.leshrc.org - Lower East Side Harm Reduction Center<br>
+http://www.hamsnetwork.org - HAMS: Harm Reduction for Alcohol<br>
+http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf - A Place at the Table<br>
+http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit - Federal Activist Toolkit<br>
 
 Domestic and Sexual Violence Resources:<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
