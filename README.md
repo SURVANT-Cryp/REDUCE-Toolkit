@@ -13,10 +13,9 @@ I am sharing this project on GitHub in the spirit of distribution and DIWO cultu
 Maps:<br>
 http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
-http://iduha.org/nyc-sep-map<br><br>
+http://iduha.org/nyc-sep-map<br>
 
 Harm Reduction Resources:<br>
-
 A Comprehensive Approach to Substance Abuse and Homelessness<br>
 http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf<br>
 
