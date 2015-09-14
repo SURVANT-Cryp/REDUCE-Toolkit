@@ -16,7 +16,7 @@ http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
 http://iduha.org/nyc-sep-map<br><br>
 
-Harm Reduction Resources:<br>
+<b>Harm Reduction Resources:</b><br>
 
 A Comprehensive Approach to Substance Abuse and Homelessness<br>
 http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf<br>
