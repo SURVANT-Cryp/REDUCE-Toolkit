@@ -15,6 +15,8 @@ http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
 
 Harm Reduction Resources:<br>
+http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf<br>
+http://www.amfar.org/uploadedFiles/_amfarorg/On_the_Hill/3_29_12_SEP_Map_FINAL.pdf<br>
 http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf<br>
 http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf<br>
 https://gaycenter.org/resources<br>
@@ -23,11 +25,16 @@ http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf<br
 http://harmreduction.org/syringe-access/syringe-access-tools/sas-le/<br>
 http://harmreduction.org/wp-content/uploads/2011/12/HCV-Support-Manual-Eng-with-Cover.pdf<br>
 http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0<br>
+http://www.hamsnetwork.org/<br>
 http://www.aldp.ie/resources/downloads1<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br>
 
 Domestic and Sexual Violence Resources:<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
+http://www.endhomelessness.org/library/entry/improving-safety-and-services-for-survivors-of-domestic-violence<br>
+http://www.endhomelessness.org/page/-/files/dash_final.pdf<br>
+https://www.aclu.org/sites/default/files/pdfs/dvhomelessness032106.pdf<br>
+
 
 
 
