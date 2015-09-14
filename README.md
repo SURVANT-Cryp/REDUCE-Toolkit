@@ -58,7 +58,7 @@ http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<b
 Federal Activist Toolkit<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br><br>
 
-Domestic and Sexual Violence Resources:<br>
+<bold>Domestic and Sexual Violence Resources:<br></bold>
 A Toolkit for Transitional Housing Programs<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
 
