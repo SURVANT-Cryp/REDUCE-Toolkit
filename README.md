@@ -32,6 +32,7 @@ http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br>
 
 Domestic and Sexual Violence Resources:<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
+http://www.safehorizon.org/page/resources--publications-7.html<br>
 http://www.endhomelessness.org/library/entry/improving-safety-and-services-for-survivors-of-domestic-violence<br>
 https://www.aclu.org/sites/default/files/pdfs/dvhomelessness032106.pdf<br>
 https://rainn.org/get-information/sexual-assault-prevention<br>
