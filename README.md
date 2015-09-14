@@ -16,8 +16,7 @@ https://locator.aids.gov<br>
 http://iduha.org/nyc-sep-map<br>
 
 Harm Reduction Resources:<br>
-http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf - A Comprehensive Approach to
-Substance Abuse and Homelessness<br>
+http://www.nhchc.org/wp-content/uploads/2012/02/hh-1003.pdf - A Comprehensive Approach to Substance Abuse and Homelessness<br>
 http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf - NYS-Authorized Syringe Exchange Programs<br>
 http://leshrc.org/sites/default/files/Getting%20Off%20Right%20-%20Manual%20for%20Injecting%20Drug%20Users.pdf - A Safety Manual for Injection Drug Users<br>
 http://www.nyc.gov/html/doh/downloads/pdf/basas/syringe_exchange.pdf - New York City Harm Reduction Syringe Access Programs<br>
