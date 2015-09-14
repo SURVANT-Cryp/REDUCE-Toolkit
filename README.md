@@ -42,7 +42,7 @@ http://harmreduction.org/wp-content/uploads/2012/11/od-manual-final-links.pdf<br
 Syringe Access & Law Enforcement<br>
 http://harmreduction.org/syringe-access/syringe-access-tools/sas-le<br>
 
-Hepatitis C Support Groups For Drug Users<br>
+Hepatitis C Support Groups for Drug Users<br>
 http://harmreduction.org/wp-content/uploads/2011/12/HCV-Support-Manual-Eng-with-Cover.pdf<br>
 
 Alcohol, Hepatitis C and HIV<br>
