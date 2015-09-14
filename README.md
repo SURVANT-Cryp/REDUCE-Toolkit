@@ -10,9 +10,9 @@ The SURVANT-Cryp REDUCE Toolkit was inspired by the Transborder Immigrant Tool (
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.<br>
 
-MAPS:<br>
+Maps:<br>
 http://reduce-toolkit.tumblr.com/locator<br>
-https://locator.aids.gov<br><br>
+https://locator.aids.gov<br>
 
 Harm Reduction Resources:<br>
 http://www.health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf<br>
@@ -26,7 +26,7 @@ http://issuu.com/harmreduction/docs/alcoholandhepatitis/1?e=0<br>
 http://www.aldp.ie/resources/downloads1<br>
 http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br>
 
-Domestic and Sexual Violence Resources<br>
+Domestic and Sexual Violence Resources:<br>
 http://www.familyhomelessness.org/media/371.pdf<br>
 
 
