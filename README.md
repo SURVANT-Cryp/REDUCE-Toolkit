@@ -14,7 +14,7 @@ I am sharing this project on GitHub in the spirit of distribution and DIWO cultu
 
 http://reduce-toolkit.tumblr.com/locator<br>
 https://locator.aids.gov<br>
-http://iduha.org/nyc-sep-map<br><br>
+http://iduha.org/nyc-sep-map<br>
 
 <b>Harm Reduction Resources:</b><br>
 
@@ -58,7 +58,7 @@ A Place at the Table<br>
 http://www.nationalhomeless.org/publications/foodsharing/Food_Sharing_2010.pdf<br>
 
 Federal Activist Toolkit<br>
-http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br><br>
+http://www.drugpolicy.org/activist-toolkits/federal-activist-toolkit<br>
 
 <b>Domestic and Sexual Violence Resources:</b><br>
 
