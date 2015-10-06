@@ -80,8 +80,7 @@ https://rainn.org/get-information/sexual-assault-prevention<br>
 Pandora's Project<br>
 http://www.pandys.org/recommendedreading.html<br>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Source: himatic-af &#10;39,780 notes</p>&mdash; SOURCE POEM (@SOURCEPOEM) <a href="https://twitter.com/SOURCEPOEM/status/650883486778269696">October 5, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
