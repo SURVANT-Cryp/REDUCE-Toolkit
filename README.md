@@ -1,6 +1,6 @@
 #SURVANT-Cryp REDUCE Toolkit
 
-A collection of harm reduction resources (maps, guides, websites and educational materials) specifically tailored to the residents of Park Slope Women's Shelter in Brooklyn, New York.<br>
+A collection of harm reduction resources (maps, guides, websites, and educational materials) specifically tailored to the residents of Park Slope Women's Shelter in Brooklyn, New York.<br>
 
 The main objective of the toolkit is to help connect homeless people—especially, the women I work with at Park Slope Women's Shelter—struggling with substance use and other serious issues to a variety of harm reduction services and therapies in New York City. The groups and organizations listed in the toolkit utilize practical strategies and ideas aimed at reducing the negative consequences associated with substance use and unprotected sexual activity. Resources for victims of domestic and sexual violence are also included in the toolkit due to the significant number of occurrences where substance use is a factor in physical and sexual abuse cases. Nearly 60 percent of women experiencing homelessness report that domestic violence was the cause of their homelessness and more than 90 percent have experienced severe physical or sexual abuse at some point in their lives, according to the National Network to End Domestic Violence.<br>
 
