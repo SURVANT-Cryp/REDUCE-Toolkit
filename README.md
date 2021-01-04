@@ -1,4 +1,4 @@
-<b>SURVANT-Cryp REDUCE Toolkit</b> (Map no longer available)
+<b>SURVANT-Cryp REDUCE Toolkit</b> (Map is no longer available)
 
 A collection of harm reduction resources (maps, guides, websites, and educational materials) specifically tailored to the residents of Park Slope Women's Shelter in Brooklyn, New York.<br>
 
